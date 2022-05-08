@@ -26,7 +26,7 @@ const messagesSlice = createSlice({
   }
 })
 
-export const { addChatMessage } = messagesSlice.actions;
+export const {addChatMessage}  = messagesSlice.actions;
 
 export {
   messagesSlice
